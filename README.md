@@ -5,7 +5,7 @@
 
 ## ⚡️ Component Patterns Overview
 
-|   | Component  |  Description  | Markup  |
+|   | Component  |  Description  | Issue Link  |
 |---|---|---|---|
 | 1  | Breadcrumb  | 탐색 위치를 나타내는 컴포넌트 |  |
 | 2  | Tabs  | 컨텐츠를 탭 형태로 나누어 표시 |  |
