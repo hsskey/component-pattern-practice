@@ -19,7 +19,7 @@
 | 10  | Modal  | 사용자 인터랙션을 위한 팝업창 |  |
 
 ## 📝 Issues and Component Analysis
-- 각 컴포넌트에 대해 [Issue 탭](https://github.com/hsskey/component-pattern-practice/issues)에서 다양한 마크업 패턴을 비교하고 논의합니다.
+- 각 컴포넌트에 대해 [Issue 탭](https://github.com/hsskey/component-pattern-practice/issues)에서 다양한 마크업 패턴을 비교하고 정리합니다.
 - ARIA Pattern을 기반으로 컴포넌트의 접근성 기능을 학습하고, MUI, Ant Design 등의 라이브러리와 비교합니다.
 
 ### 예시 이슈 템플릿
