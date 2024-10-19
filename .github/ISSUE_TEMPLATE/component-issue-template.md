@@ -1,3 +1,12 @@
+---
+name: Component Pattern Study Issue
+about: Template for component pattern study issues
+title: "[Component Pattern] "
+labels: component pattern, study
+assignees: ''
+
+---
+
 ## 📋 컴포넌트 정보
 
 - **컴포넌트 이름**: [컴포넌트 이름](링크)
