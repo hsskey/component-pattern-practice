@@ -5,18 +5,16 @@
 
 ## ⚡️ Component Patterns Overview
 
-|   | Component  |  Description  | Issue Link  |
+|   | Component  |  Description  | Note  |
 |---|---|---|---|
 | 1  | Breadcrumb  | 탐색 위치를 나타내는 컴포넌트 |  |
 | 2  | Tabs  | 컨텐츠를 탭 형태로 나누어 표시 |  |
 | 3  | Accordion  | 확장 가능한 리스트 컴포넌트 |  |
-| 4  | Tree  | 계층 구조를 나타내는 컴포넌트로, 폴더 구조 등을 표현할 때 사용 |  |
-| 5  | Select  | 드롭다운 형태로 선택 입력을 받는 컴포넌트 |  |
-| 6  | Button  | 사용자 입력을 받기 위한 버튼 |  |
-| 7  | Switch  | 토글 형태로 상태를 변경하는 컴포넌트 |  |
-| 8  | Carousel  | 여러 개의 항목을 슬라이드 형태로 순차적으로 보여주는 컴포넌트 |  |
-| 9  | Toast  | 사용자에게 짧은 알림 메시지를 보여주는 컴포넌트 |  |
-| 10  | Modal  | 사용자 인터랙션을 위한 팝업창 |  |
+| 4  | Select  | 드롭다운 형태로 선택 입력을 받는 컴포넌트 |  |
+| 5  | Button  | 사용자 입력을 받기 위한 버튼 |  |
+| 6  | Switch  | 토글 형태로 상태를 변경하는 컴포넌트 |  |
+| 7  | Carousel  | 여러 개의 항목을 슬라이드 형태로 순차적으로 보여주는 컴포넌트 |  |
+| 8  | Modal  | 사용자 인터랙션을 위한 팝업창 |  |
 
 ## 📝 Issues and Component Analysis
 - 각 컴포넌트에 대해 [Issue 탭](https://github.com/hsskey/component-pattern-practice/issues)에서 다양한 마크업 패턴을 비교하고 정리합니다.
